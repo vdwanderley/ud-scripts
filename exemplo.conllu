@@ -1,0 +1,14 @@
+# sent_id = dev-s11
+# text = Os cuidados de sempre estão sendo tomados pelo consumidor.
+1	Os	_	DET	DET	_	2	det	_	_
+2	cuidados	cuidado	NOUN	NOUN	_	7	nsubj:pass	_	_
+3	de	_	ADP	ADP	_	4	mark	_	_
+4	sempre	sempre	ADV	ADV	_	2	nmod	_	_
+5	estão	estar	AUX	AUX	_	7	aux	_	_
+6	sendo	ser	AUX	AUX	_	7	aux:pass	_	_
+7	tomados	tomar	VERB	VERB	_	0	root	_	_
+8-9	pelo	_	_	_	_	_	_	_	_
+8	por	por	ADP	ADP	_	10	case	_	_
+9	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	consumidor	consumidor	NOUN	NOUN	_	7	nmod	_	SpaceAfter=No
+11	.	_	PUNCT	.	_	7	punct	_	_
